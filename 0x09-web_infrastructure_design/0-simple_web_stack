@@ -1,0 +1,29 @@
+Requirements:
+
+You must use:
+1 server
+1 web server (Nginx)
+1 application server
+1 application files (your code base)
+1 database (MySQL)
+1 domain name foobar.com configured with a www record that points to your server IP 8.8.8.8
+
+Visual Representation:
+https://miro.com/app/board/uXjVPd1XQBU=/
+
+A server is a software or hardware computer that provides internet or function to other devices.The device is called clients.
+
+Domain is the DNS. IT translate domain names into Ip address that initiating client.
+
+The apache HTTP server is the type of www record that is in www.foobar.com.
+The apache software foundation install all the oparation system.
+
+Application server run process power and memory memory to run demanding application and it also provides the enviroment to run specific applications.
+
+The web server it uses HTTP and other protocols to respond to client request made over the WWW.
+It store the processing and deliver webpages to users.
+
+The database it give access to creation,updating and retrieval of records.
+It provides access to only users who have password.
+
+The server uses internet to or DNS to communicate
